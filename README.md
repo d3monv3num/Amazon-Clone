@@ -24,6 +24,9 @@ This is a full-stack web application that replicates the core functionalities of
 <img width="960" alt="image" src="https://github.com/d3monv3num/Amazon-Clone/assets/77112679/b24ae3da-807f-4299-8d82-f0d157f9bba1">
 
 <img width="594" alt="image" src="https://github.com/d3monv3num/Amazon-Clone/assets/77112679/071d89c4-2679-46ad-8cdc-e0f14a8f42af">
+
+<img width="950" alt="image" src="https://github.com/d3monv3num/Amazon-Clone/assets/77112679/71dd3271-06a3-4207-be73-e0706a4ae5e7">
+
 ## Installation
 
 1. Clone the repository:
