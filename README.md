@@ -63,7 +63,8 @@ npm install
 
 ```bash
 # From the backend directory
-npm start
+firebase init
+firebase emulators:start
 
 # From the frontend directory
 npm start
